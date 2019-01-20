@@ -1,0 +1,19 @@
+{
+  "name": "fetchwrap",
+  "version": "1.0.0",
+  "description": "封装fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "wanghao",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.2.5",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.11"
+  }
+}
