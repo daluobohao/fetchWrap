@@ -1,6 +1,8 @@
 # 一、安装
-npm install @daluobo/fetchwrap
+```
+npm install @daluobo/fetchwrap;
 import fetchWrap  from '@daluobo/fetchwrap';
+```
 # 二、使用
 ## 1. get方法
 ```
