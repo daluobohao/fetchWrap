@@ -116,4 +116,4 @@ class httpFetch {
 
 let fetchWrap = new httpFetch();
 
-export { fetchWrap }
+export default fetchWrap

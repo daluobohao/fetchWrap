@@ -1,8 +1,9 @@
 {
-  "name": "fetchwrap",
-  "version": "1.0.0",
+  "name": "@daluobo/fetchwrap",
+  "version": "1.0.3",
   "description": "封装fetch",
   "main": "index.js",
+  "git": "git@github.com:daluobohao/fetchWrap.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
