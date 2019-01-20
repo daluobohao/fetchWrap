@@ -1,11 +1,11 @@
 # 一、安装
-npm install easyFetchWrap
-import fetchWrpa from '@daluobo/fetchwrap'
+npm install @daluobo/fetchwrap
+import fetchWrap  from '@daluobo/fetchwrap';
 # 二、使用
 ## 1. get方法
 ```
 参数为：（api, data = {}, headers = {}, config = {}）
-fetchWrpa.get('/test-fetch')
+fetchWrap.get('/test-fetch')
 .then((res) => {
     console.log('res:', res);
 })
@@ -16,7 +16,7 @@ fetchWrpa.get('/test-fetch')
 ## 2. post方法
 ```
 参数为：（api, data = {}, headers = {}, config = {}）
-fetchWrpa.post('/test-fetch')
+fetchWrap.post('/test-fetch')
 .then((res) => {
     console.log('res:', res);
 })

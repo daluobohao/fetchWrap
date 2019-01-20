@@ -1,6 +1,6 @@
 {
   "name": "@daluobo/fetchwrap",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "封装fetch",
   "main": "index.js",
   "git": "git@github.com:daluobohao/fetchWrap.git",
